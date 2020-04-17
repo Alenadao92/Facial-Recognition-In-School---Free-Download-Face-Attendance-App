@@ -4,6 +4,8 @@ Use [facial recognition in school](https://gigasource.io/facial-recognition-in-s
 ## Fast & Accuracy Attendance Tracking
 Previously, attendance tracking is a time-consuming process for schools and universities. With facial recognition in school, faculty and the students spend only a few minutes of each class recording attendance. Facial recognition technology offers a streamlined and automatic way with high-security rate.
 
+![Face Recognition In School](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/attendance-img2.png)
+
 ## Automatic and Seamless Verification Experience
 There is no need to wait in turn for checking like fingerprinting or other security measures, facial recognition for attendance system offers a quick, automatic, and seamless verification experience.
 
